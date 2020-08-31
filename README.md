@@ -2,4 +2,4 @@
 
 Decode function for Thing Networks payload of tabs Sensor (temperature and humidity)
 
-Sample flow for Node-Red included in folder : change EUIs and keys
+Sample flow for Node-Red included in folder : change EUIs and keys (requires node-red-dashboard in the palette)
