@@ -15,8 +15,6 @@ function Decoder(bytes, port) {
     var rh_error = false;
     if (rh === 127) {
         rh_error = true;
-    } else {
-        rh_error = false;
     }
     
     // Board temp measurement
