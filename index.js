@@ -1,6 +1,6 @@
 /* 
  * Decoder function for The Things Network to unpack the payload of the tabs sensor for temperature and humidity
- *
+ * Protocol version v.13
  * This function was created by Radu Simen - radu103@hotmail.com
  */
 
